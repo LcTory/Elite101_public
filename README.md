@@ -4,6 +4,6 @@
 
 this paragraph
 
-**bold**
+**bold text**
 
-__italics__
+
